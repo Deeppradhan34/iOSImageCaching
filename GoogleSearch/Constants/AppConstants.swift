@@ -9,5 +9,6 @@
 import UIKit
 
 
+/* Set your own google API key*/
 let API_KEY = ""
 
